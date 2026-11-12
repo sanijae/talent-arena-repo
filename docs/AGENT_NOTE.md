@@ -1,0 +1,1 @@
+Never access, read, index, upload or transmit the competition data to any cloud AI service. Work only with code, synthetic examples and permitted external datasets. Do not use competition ground truth or video for tuning.
